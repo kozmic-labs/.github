@@ -1,2 +1,4 @@
-# kozmic-labs
-about
+
+### kozmic-labs
+
+- Gemini / Qwen3 assisted coding.
